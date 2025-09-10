@@ -328,7 +328,7 @@ wr mem
 ## PC3
 <img width="699" height="390" alt="image" src="https://github.com/user-attachments/assets/5d93ecfc-5220-4b96-8749-685760780935" />
 
-## pC4
+## PC4
 <img width="703" height="367" alt="image" src="https://github.com/user-attachments/assets/67efee33-faaf-458d-be2f-1ecbd8f49582" />
 
 
