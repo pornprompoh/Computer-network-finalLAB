@@ -312,6 +312,7 @@ wr mem
 <img width="700" height="349" alt="image" src="https://github.com/user-attachments/assets/9d0f7652-587c-41ac-94f8-8ade8e4ff955" />
 
 
+## รูปภาพเพิ่มเติมสำหรับข้อ 3
 
 
 
