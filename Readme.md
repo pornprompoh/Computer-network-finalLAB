@@ -253,7 +253,31 @@ end
 wr mem
 ```
 
-## รูปภาพเพิ่มเติมเสริมเพื่อดู
+## รูปภาพเพิ่มเติมสำหรับข้อ 1
+
+## CorSwitch
+<img width="782" height="511" alt="image" src="https://github.com/user-attachments/assets/f7fdc168-5f90-453c-b617-cab262a8bbf8" />
+
+## R1
+<img width="797" height="159" alt="image" src="https://github.com/user-attachments/assets/a98a76dc-c2d5-413c-8f0b-8723d9b2015e" />
+
+## ISP
+<img width="795" height="156" alt="image" src="https://github.com/user-attachments/assets/f93ad7f6-cb62-4d4e-a268-59a89c2d2080" />
+
+## SW1
+<img width="665" height="480" alt="image" src="https://github.com/user-attachments/assets/75f51ad4-b06b-45c4-b08f-9d0ad25f6cba" />
+
+## SW2
+<img width="665" height="479" alt="image" src="https://github.com/user-attachments/assets/d6087900-f78e-42c1-9f83-754ad123a5e3" />
+
+## SW3
+<img width="667" height="479" alt="image" src="https://github.com/user-attachments/assets/f6fc9d53-2de2-4d4a-9acf-cbf921e2de75" />
+
+## SW4
+<img width="665" height="482" alt="image" src="https://github.com/user-attachments/assets/9e3b9573-bbae-4a82-ab29-5c40f70dac1b" />
+
+## WebServer
+<img width="701" height="275" alt="image" src="https://github.com/user-attachments/assets/29e8c0cf-3f09-4be1-90cd-f156ebfaf972" />
 
 ## PC1
 <img width="700" height="316" alt="image" src="https://github.com/user-attachments/assets/bd3400c5-46bd-4cc9-8a09-6ae50910b043" />
