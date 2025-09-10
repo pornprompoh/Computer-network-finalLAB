@@ -215,6 +215,7 @@ wr mem
 ## 2.บล็อก ACL บล็อกไม่ให้ VLAN 10 เข้า WebServer 
 ### R1
 ```cisco
+en
 conf t
 access-list 100 deny tcp 192.23.1.0 0.0.0.255 host 200.200.100.2 eq 80
 access-list 100 deny tcp 192.23.1.0 0.0.0.255 host 200.200.100.2 eq 443
@@ -227,6 +228,7 @@ interface g0/0/0
 ## 3.เลือกใช้ NAT หน่วยงานมี Public IP เพี่ยง 1 อัน
 
 ```cisco
+en
 conf t
 !
 ! ระบุ ACL สำหรับ LAN ที่จะถูกแปล
