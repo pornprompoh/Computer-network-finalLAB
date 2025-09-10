@@ -314,7 +314,20 @@ wr mem
 
 ## รูปภาพเพิ่มเติมสำหรับข้อ 3
 
+## R1
+<img width="698" height="437" alt="image" src="https://github.com/user-attachments/assets/b6dc8db0-eec5-4f12-b6f6-1550a4fc38de" />
 
+## PC1
+<img width="699" height="381" alt="image" src="https://github.com/user-attachments/assets/decdc205-17b4-411d-9abf-09fd7bb8d423" />
+
+## PC2
+<img width="700" height="422" alt="image" src="https://github.com/user-attachments/assets/24a522fc-715f-47ae-9712-c0dbcded49eb" />
+
+## PC3
+<img width="699" height="390" alt="image" src="https://github.com/user-attachments/assets/5d93ecfc-5220-4b96-8749-685760780935" />
+
+## pC4
+<img width="703" height="367" alt="image" src="https://github.com/user-attachments/assets/67efee33-faaf-458d-be2f-1ecbd8f49582" />
 
 
 
