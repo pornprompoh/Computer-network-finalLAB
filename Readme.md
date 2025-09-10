@@ -297,7 +297,19 @@ wr mem
 <img width="699" height="296" alt="image" src="https://github.com/user-attachments/assets/9ccc605c-3883-440c-87f0-63d910c5f02b" />
 
 
+## รูปภาพเพิ่มเติมสำหรับข้อ 2
 
+## PC1
+<img width="698" height="427" alt="image" src="https://github.com/user-attachments/assets/36b6f717-03b9-43cb-a392-f46c7336de3c" />
+
+## PC2
+<img width="700" height="440" alt="image" src="https://github.com/user-attachments/assets/610f647a-d5e3-4e8b-a991-67f14f3aa82c" />
+
+## PC3
+<img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/034a092d-ba93-4ecd-bf8e-f27682269649" />
+
+## PC4
+<img width="700" height="349" alt="image" src="https://github.com/user-attachments/assets/9d0f7652-587c-41ac-94f8-8ade8e4ff955" />
 
 
 
