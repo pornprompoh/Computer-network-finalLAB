@@ -62,7 +62,6 @@ ip route 0.0.0.0 0.0.0.0 192.23.3.1
 
 end
 wr mem
-
 ```
 
 ### - ISP Router
@@ -87,7 +86,6 @@ ip route 0.0.0.0 0.0.0.0 200.200.200.2
 
 end
 wr mem
-
 ```
 
 ### - R1
@@ -120,7 +118,6 @@ ip route 0.0.0.0 0.0.0.0 200.200.200.1
 
 end
 wr mem
-
 ```
 
 ### - SW1
@@ -144,7 +141,6 @@ spanning-tree portfast
 no shutdown
 end
 wr mem
-
 ```
 
 ### - SW2
@@ -168,7 +164,6 @@ spanning-tree portfast
 no shutdown
 end
 wr mem
-
 ```
 
 ### - SW3
@@ -192,7 +187,6 @@ spanning-tree portfast
 no shutdown
 end
 wr mem
-
 ```
 
 ### - SW4
@@ -216,7 +210,6 @@ spanning-tree portfast
 no shutdown
 end
 wr mem
-
 ```
 
 ## 2.บล็อก ACL บล็อกไม่ให้ VLAN 10 เข้า WebServer 
