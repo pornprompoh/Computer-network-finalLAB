@@ -257,18 +257,25 @@ wr mem
 
 ## PC1
 <img width="700" height="316" alt="image" src="https://github.com/user-attachments/assets/bd3400c5-46bd-4cc9-8a09-6ae50910b043" />
+
 ## PC2
 <img width="699" height="307" alt="image" src="https://github.com/user-attachments/assets/26c763cd-c197-4aa4-a31f-1736dc5fb514" />
+
 ## PC3
 <img width="701" height="313" alt="image" src="https://github.com/user-attachments/assets/b97bf2f6-e4a6-4ac0-a29c-f3f1f295964b" />
+
 ## PC4
 <img width="701" height="303" alt="image" src="https://github.com/user-attachments/assets/1a8f134b-0d3a-437a-9086-2a673ef99b02" />
+
 ## PC5
 <img width="702" height="301" alt="image" src="https://github.com/user-attachments/assets/a2acd692-a393-4f0c-9254-ebd405154166" />
+
 ## PC6
 <img width="700" height="305" alt="image" src="https://github.com/user-attachments/assets/1f03f4ea-eec7-4811-a577-440a55a15a23" />
+
 ## PC7
 <img width="699" height="314" alt="image" src="https://github.com/user-attachments/assets/c8ead6e8-e096-4dde-a239-fe0b24f8a0c5" />
+
 ## PC8
 <img width="699" height="296" alt="image" src="https://github.com/user-attachments/assets/9ccc605c-3883-440c-87f0-63d910c5f02b" />
 
