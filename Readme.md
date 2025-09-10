@@ -250,86 +250,84 @@ wr mem
 
 ## รูปภาพเพิ่มเติมสำหรับข้อ 1
 
-## CorSwitch
+### CorSwitch
 <img width="782" height="511" alt="image" src="https://github.com/user-attachments/assets/f7fdc168-5f90-453c-b617-cab262a8bbf8" />
 
-## R1
+### R1
 <img width="797" height="159" alt="image" src="https://github.com/user-attachments/assets/a98a76dc-c2d5-413c-8f0b-8723d9b2015e" />
 
-## ISP
+### ISP
 <img width="795" height="156" alt="image" src="https://github.com/user-attachments/assets/f93ad7f6-cb62-4d4e-a268-59a89c2d2080" />
 
-## SW1
+### SW1
 <img width="665" height="480" alt="image" src="https://github.com/user-attachments/assets/75f51ad4-b06b-45c4-b08f-9d0ad25f6cba" />
 
-## SW2
+### SW2
 <img width="665" height="479" alt="image" src="https://github.com/user-attachments/assets/d6087900-f78e-42c1-9f83-754ad123a5e3" />
 
-## SW3
+### SW3
 <img width="667" height="479" alt="image" src="https://github.com/user-attachments/assets/f6fc9d53-2de2-4d4a-9acf-cbf921e2de75" />
 
-## SW4
+### SW4
 <img width="665" height="482" alt="image" src="https://github.com/user-attachments/assets/9e3b9573-bbae-4a82-ab29-5c40f70dac1b" />
 
-## WebServer
+### WebServer
 <img width="701" height="275" alt="image" src="https://github.com/user-attachments/assets/29e8c0cf-3f09-4be1-90cd-f156ebfaf972" />
 
-## PC1
+### PC1
 <img width="700" height="316" alt="image" src="https://github.com/user-attachments/assets/bd3400c5-46bd-4cc9-8a09-6ae50910b043" />
 
-## PC2
+### PC2
 <img width="699" height="307" alt="image" src="https://github.com/user-attachments/assets/26c763cd-c197-4aa4-a31f-1736dc5fb514" />
 
-## PC3
+### PC3
 <img width="701" height="313" alt="image" src="https://github.com/user-attachments/assets/b97bf2f6-e4a6-4ac0-a29c-f3f1f295964b" />
 
-## PC4
+### PC4
 <img width="701" height="303" alt="image" src="https://github.com/user-attachments/assets/1a8f134b-0d3a-437a-9086-2a673ef99b02" />
 
-## PC5
+### PC5
 <img width="702" height="301" alt="image" src="https://github.com/user-attachments/assets/a2acd692-a393-4f0c-9254-ebd405154166" />
 
-## PC6
+### PC6
 <img width="700" height="305" alt="image" src="https://github.com/user-attachments/assets/1f03f4ea-eec7-4811-a577-440a55a15a23" />
 
-## PC7
+### PC7
 <img width="699" height="314" alt="image" src="https://github.com/user-attachments/assets/c8ead6e8-e096-4dde-a239-fe0b24f8a0c5" />
 
-## PC8
+### PC8
 <img width="699" height="296" alt="image" src="https://github.com/user-attachments/assets/9ccc605c-3883-440c-87f0-63d910c5f02b" />
 
 
 ## รูปภาพเพิ่มเติมสำหรับข้อ 2
 
-## PC1
+### PC1
 <img width="698" height="427" alt="image" src="https://github.com/user-attachments/assets/36b6f717-03b9-43cb-a392-f46c7336de3c" />
 
-## PC2
+### PC2
 <img width="700" height="440" alt="image" src="https://github.com/user-attachments/assets/610f647a-d5e3-4e8b-a991-67f14f3aa82c" />
 
-## PC3
+### PC3
 <img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/034a092d-ba93-4ecd-bf8e-f27682269649" />
 
-## PC4
+### PC4
 <img width="700" height="349" alt="image" src="https://github.com/user-attachments/assets/9d0f7652-587c-41ac-94f8-8ade8e4ff955" />
 
 
 ## รูปภาพเพิ่มเติมสำหรับข้อ 3
 
-## R1
+### R1
 <img width="698" height="437" alt="image" src="https://github.com/user-attachments/assets/b6dc8db0-eec5-4f12-b6f6-1550a4fc38de" />
 
-## PC1
+### PC1
 <img width="699" height="381" alt="image" src="https://github.com/user-attachments/assets/decdc205-17b4-411d-9abf-09fd7bb8d423" />
 
-## PC2
+### PC2
 <img width="700" height="422" alt="image" src="https://github.com/user-attachments/assets/24a522fc-715f-47ae-9712-c0dbcded49eb" />
 
-## PC3
+### PC3
 <img width="699" height="390" alt="image" src="https://github.com/user-attachments/assets/5d93ecfc-5220-4b96-8749-685760780935" />
 
-## PC4
+### PC4
 <img width="703" height="367" alt="image" src="https://github.com/user-attachments/assets/67efee33-faaf-458d-be2f-1ecbd8f49582" />
-
-
 
