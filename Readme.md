@@ -223,8 +223,8 @@ wr mem
 ### R1
 ```cisco
 conf t
-access-list 100 deny tcp 192.51.1.0 0.0.0.255 host 200.200.100.2 eq 80
-access-list 100 deny tcp 192.51.1.0 0.0.0.255 host 200.200.100.2 eq 443
+access-list 100 deny tcp 192.23.1.0 0.0.0.255 host 200.200.100.2 eq 80
+access-list 100 deny tcp 192.23.1.0 0.0.0.255 host 200.200.100.2 eq 443
 access-list 100 permit ip any any
 
 interface g0/0/0
@@ -237,7 +237,7 @@ interface g0/0/0
 conf t
 !
 ! ระบุ ACL สำหรับ LAN ที่จะถูกแปล
-access-list 1 permit 192.51.0.0 0.0.255.255
+access-list 1 permit 192.23.0.0 0.0.255.255
 !
 ! ตั้งค่า NAT Overload
 ip nat inside source list 1 interface g0/0/0 overload
