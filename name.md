@@ -14,3 +14,14 @@ interface g0/0/1.20
 !
 ip nat inside source list 1 interface g0/0/0 overload
 end
+
+
+
+conf t
+!
+access-list 101 deny tcp 192.23.10.0 0.0.0.255 any eq 23
+access-list 101 permit ip any any
+!
+interface g0/0/0
+ ip access-group 101 in
+end
